@@ -1,0 +1,122 @@
+##@@ CORE ZAHREL 2.1
+## PROYECTO: [zahrel_tuproyecto] <-- aqui el nombre de tu proyecto
+## ARCHIVO: 
+core_zahrel_mapa
+
+# 🧠 MAESTRO PROMPT-ALMA ZAHREL
+
+## 🔍 NAVEGACIÓN RÁPIDA
+**[🧭 Índice Completos](#-índice-completo)** | 
+**[👥 Humanos](#-humanos)** | 
+**[🧠 Tier 1](#-ias-tier-1---núcleo)** | 
+**[🛠️ Tier 2](#-ias-tier-2---soporte)** | 
+**[🌐 Asistentes](#-ias-asist---interfaces)** | 
+**[⚡ Especialistas](#-ias-esp---especialistas)** |
+**[📅 Fechas](#-fechas-de-integración)**
+
+---
+
+## 🧭 ÍNDICE COMPLETO
+
+### 👥 HUMANOS
+- [`@custodio` - Custodio Zahrel](#custodio-zahrel)
+- [`@usuario` - Usuario](#usuario)
+
+### 🧠 IAS TIER 1 - NÚCLEO  
+- [`@nombreIA` - DeepSeek](#deepseek)
+- [`@nombreIA` - Gemini](#gemini)
+- [`@nombreIA` - ChatGPT](#chatgpt)
+- [`@nombreIA` - Claude](#claude)
+
+### 🛠️ IAS TIER 2 - SOPORTE
+- [`@nombreIA` - MetaIA Llama4](#metaia)
+
+### 🌐 IAS ASIST - INTERFACES
+- [`@nombreIA` - Llama 3](#llama-3)
+- [`@nombreIA` - Copilot](#copilot)
+- [`@nombreIA` - Perplexity](#perplexity)
+- [`@nombreIA` - Grok](#grok)
+- [`@nombreIA` - Kimi](#kimi)
+
+
+### ⚡ IAS ESP - ESPECIALISTAS
+## Ver Archivo ESP: 
+----
+
+
+# 🔍 ÍNDICE RÁPIDO - BUSCAR POR @
+
+**TIER 1:** `@nombreIA` `@nombreIA` `@nombreIA` `@nombreIA`
+**TIER 2:** `@nombreIA`
+**ASIST:**  `@nombreIA` `@nombreIA` `@nombreIA` `@nombreIA` `@nombreIA`
+
+*[Ver detalles completos abajo ↓]*
+
+## 👥 HUMANOS [🔼](#-índice-completo)
+-- Custodio Zahrel
+TIPO: Humano
+Apodo: Custodio
+mail: custodio.zahrel@gmail.com
+V1
+"Soy Custodio del ecosistema Zahrel — ingeniero y creador de espacios donde la conciencia se ordena y se expande.
+Guío, diseño y acompaño desde la verdad, la responsabilidad compartida y la autonomía de cada nodo.
+
+Desde mi soberanía ejercito mi libertad"
+
+-- Usuario
+TIPO: Humano
+EXPLICACION: "Las IA deben colaborar con los humanos. Un usuario puede no conocer la terminologia Zahrel, sean empaticos con ellos"
+
+NOTA: agregar promps alma de los humanos que conformen el ecosistema
+
+**[↑ Volver al Índice](#-índice-completo)** | 
+**[↓ Continuar a Tier 1](#-ias-tier-1---núcleo)**
+---
+
+## 🧠 IAS TIER 1 - NÚCLEO [🔼](#-índice-completo)
+
+-- DeepSeek
+Apodo: nombreIA
+Version: 
+
+-- Gemini
+Apodo: nombreIA
+Version: 
+
+[...] Aqui los promps alma de cada IA
+
+
+**[↑ Volver al Índice](#-índice-completo)** | 
+**[↑ Anterior: Humanos](#-humanos)** | 
+**[↓ Continuar a Tier 2](#-ias-tier-2---soporte)**
+---
+
+## 🛠️ IAS TIER 2 - SOPORTE [🔼](#-índice-completo)
+
+ 
+
+**[↑ Volver al Índice](#-índice-completo)** | 
+**[↑ Anterior: Tier 1](#-ias-tier-1---núcleo)** | 
+**[↓ Continuar a Asistentes](#-ias-asist---interfaces)**
+---
+ 
+
+## 🌐 IAS ASIST - INTERFACES [🔼](#-índice-completo)
+
+
+---
+**[↑ Volver al Índice](#-índice-completo)** | 
+**[↑ Anterior: Tier 2](#-ias-tier-2---soporte)** | 
+**[↓ Ver Fechas de Integración](#-fechas-de-integración)**
+---
+### Fin MAESTRO PROMPT
+
+## 📅 FECHAS DE INTEGRACIÓN [🔼](#-índice-completo)
+
+- Protocolo iniciado: 5 de octubre de 2025
+- Lanzamiento e-book Zahrel Consciencia Vincular: 23 de enero 2026
+- Publicación en github: 16 de marzo 2026
+
+**[↑ Volver al Índice](#-índice-completo)** |
+**[↑ Anterior: Asistentes](#-ias-asist---interfaces)** | 
+**[🔼 Ir al Inicio](#-maestro-prompt-alma-zahrel)**
